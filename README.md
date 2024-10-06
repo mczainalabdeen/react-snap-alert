@@ -120,6 +120,17 @@ SnapAlert.success('Global Success', 'This alert will use global options.');
 SnapAlert.error('Global Error', 'This alert will also use global options.');
 ```
 
+### `clearAll`
+
+The `clearAll` method is used to remove all active alerts from the screen. This can be useful in scenarios where you want to clear multiple notifications at once, such as when navigating away from a page, or after performing a certain action where notifications are no longer relevant.
+
+```javascript
+SnapAlert.clearAll();
+```
+
+This will instantly clear all alerts, including success, error, warning, info, and custom HTML alerts, if any are currently visible.
+
+
 ### Available Options
 
 - **rtl**: `false` (Enable/disable right-to-left support)
