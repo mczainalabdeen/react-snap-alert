@@ -1,0 +1,19 @@
+{
+  "name": "react-snap-alert",
+  "version": "1.0.2",
+  "description": "SnapAlert is a lightweight React plugin that provides customizable and user-friendly alert notifications , Easily display alerts, confirmations, and prompts in your React applications with simple methods and flexible options.",
+  "homepage": "https://zain.picker.sd",
+  "main": "./dist/index.jsx",
+  "style": "./dist/snapAlert.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Javascript", "React" ,"Next", "plugin", "alert","prompt", "notification", "ui"],
+  "author": "Zainalabdeen Radwan <zain@picker.sd> (https://picker.sd)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mczainalabdeen/react-snap-alert.git"
+  },
+ 
+  "license": "MIT"
+}
