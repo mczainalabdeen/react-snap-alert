@@ -1,6 +1,6 @@
 {
   "name": "react-snap-alert",
-  "version": "1.0.5",
+  "version": "1.1.0",
   "description": "SnapAlert is a lightweight React plugin that provides customizable and user-friendly alert notifications , Easily display alerts, confirmations, and prompts in your React applications with simple methods and flexible options.",
   "homepage": "https://zain.picker.sd",
   "main": "./dist/index.jsx",
