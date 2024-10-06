@@ -200,7 +200,7 @@ class SnapAlert {
       this.createAlert('info' , title, message, options);
     }
     alert(title, message, options){
-      this.createAlert(null , title, message, options);
+      this.createAlert('alert' , title, message, options);
     }
   
     html(code , options){
