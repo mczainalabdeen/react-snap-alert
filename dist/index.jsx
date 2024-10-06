@@ -202,7 +202,10 @@ class SnapAlert {
     alert(title, message, options){
       this.createAlert('alert' , title, message, options);
     }
-  
+
+    clearAll(){
+        this.clearAll();
+    }
     html(code , options){
       this.createAlert('html' , code , null, options);
     }
